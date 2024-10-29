@@ -1,6 +1,6 @@
 # digitalsys
 Sistema de recrutamento e envio de currículos para a empresa Pegho
-#Funcionalidades
+# Funcionalidades
 - Interface de Login
 - Envio de formulario com as informações do candidato
 - API REST para requisiçoes backend com uso do DJANGO REST FRAMEWORK
